@@ -17,7 +17,7 @@
 LINK: [
      # { link: "https://www.yyyzyyyz.cn/link/", theme: "butterfly" },  # 友链页地址1，修改为你的友链页地址
 #     { link: "https://noionion.top/link/", theme: "butterfly" }, # 友链页地址2
-    { link: "https://immmmm.com/about/", theme: "common2" }, # 友链页地址3
+    { link: "https://www.gan1ser.top/link/", theme: "common2" }, # 友链页地址3
 #     ...
 ]
 
