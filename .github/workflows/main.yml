@@ -41,8 +41,11 @@ jobs:
 
     - name: Set up Python
       uses: actions/setup-python@main
-      with:
+      with: 
         python-version: 3.8
+        
+    - name: Install old pip version
+      run: pip install --upgrade 'pip<24.1'
 
     - name: Install requirements
       working-directory: ./hexo_circle_of_friends
